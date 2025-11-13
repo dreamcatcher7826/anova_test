@@ -1,2 +1,1 @@
-# anova_test
-anova
+Complete project README with Chinese documentation for robot control algorithm ANOVA analysis project, including badges, introduction, quick start guide, ANOVA theory explanation, usage instructions, and project structure.

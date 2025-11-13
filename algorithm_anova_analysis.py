@@ -1,0 +1,1 @@
+Main analysis script with integrated ANOVA logic (no external dependencies), includes data loading, ANOVA test, visualization, and management recommendations
