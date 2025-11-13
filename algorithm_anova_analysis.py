@@ -1,7 +1,6 @@
 """
 机器人控制算法ANOVA分析
 比较 PID、LQR、MPC 三种算法的控制误差是否存在显著差异
-注：此版本已将ANOVA逻辑直接整合，无需外部依赖
 """
 import pandas as pd
 import numpy as np
